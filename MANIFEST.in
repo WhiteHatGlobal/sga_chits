@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include sga_chits *.css
+recursive-include sga_chits *.csv
+recursive-include sga_chits *.html
+recursive-include sga_chits *.ico
+recursive-include sga_chits *.js
+recursive-include sga_chits *.json
+recursive-include sga_chits *.md
+recursive-include sga_chits *.png
+recursive-include sga_chits *.py
+recursive-include sga_chits *.svg
+recursive-include sga_chits *.txt
+recursive-exclude sga_chits *.pyc
