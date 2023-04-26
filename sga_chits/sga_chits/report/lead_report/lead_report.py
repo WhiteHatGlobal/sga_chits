@@ -22,7 +22,7 @@ def get_columns():
 		},
   		{
 			"label": _("Created On"),
-			"fieldname": "creation",
+			"fieldname": "date",
 			"fieldtype": "Date",
    			"width": 150,
 		},
