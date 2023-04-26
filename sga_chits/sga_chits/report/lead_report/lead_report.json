@@ -1,0 +1,38 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2023-04-18 12:28:38.004291",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "modified": "2023-04-18 15:42:20.849062",
+ "modified_by": "Administrator",
+ "module": "SGA Chits",
+ "name": "Lead Report",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Lead",
+ "report_name": "Lead Report",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "Sales User"
+  },
+  {
+   "role": "Sales Manager"
+  },
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "Report Manager"
+  },
+  {
+   "role": "Dashboard Manager"
+  }
+ ]
+}
